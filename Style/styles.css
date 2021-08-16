@@ -180,7 +180,7 @@ a:hover{
 
 .captain{
   border-radius: 100%;
-  width: 30%;
+  width: 180px;
   float: left;
   margin-right: 30px;
 }
@@ -231,11 +231,11 @@ margin-left: 30px;
 
 
 
-.tha{
-  width: 20%;
+.ddd{
+  width: 303px;
   position: absolute;
   bottom: 175px;
-  left: 0;
+  right:100px;
 }
 
 .copyright{
