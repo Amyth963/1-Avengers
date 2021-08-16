@@ -83,11 +83,12 @@ a:hover{
 
 .contact-me{
   position: relative;
+  margin-bottom: 120px;
 }
 
 
 .bottom-container{
-  position:relative;
+  display: block;
   margin-top: 100px;
   background-color: #66BFBF;
   padding: 50px 0 20px;
@@ -234,8 +235,10 @@ margin-left: 30px;
 .ddd{
   width: 303px;
   position: absolute;
-  bottom: 175px;
+  top:0;
   right:100px;
+
+
 }
 
 .copyright{
